@@ -1,0 +1,13 @@
+.heading {
+  margin-bottom: 50px;
+  margin-top: 10px;
+  color: darkslateblue;
+  text-decoration: underline;
+}
+
+.span {
+  font-size: 30px;
+}
+body {
+  background-color: #d1beb0;
+}
